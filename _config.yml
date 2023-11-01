@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenyu Yu's Website"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Wenyu Yu"
 description              : &description "PhD candidate, IEEE COMST EiC Assistant"
